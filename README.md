@@ -4,4 +4,4 @@
 
 #To install Faker open cmd, then type "pip install faker". and wait for it to install
 
-#After you have everything installed open the .py file in Visual Studio code or any IDE you want, after you have opened the file go to the last line and edit "about("Jeff")" to anything
+#After you have everything installed open the .py file in Visual Studio code or any IDE you want, after you have opened the file go to the last line and edit jeff from "about("Jeff")" to any name within quotes
