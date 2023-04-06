@@ -1,12 +1,8 @@
 import random
 
-import faker
-
 from faker import Faker
 
 import time
-
-import colorama
 
 from colorama import Fore
 
